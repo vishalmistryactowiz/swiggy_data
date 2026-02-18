@@ -19,7 +19,8 @@ def praser(data):
                 product['Product ID'] = sub_item['skuId']
                 product['Product Price'] = float(sub_item['price']['offerPrice']["units"])
                 product['Product quantity'] = sub_item['quantityDescription']
-                product['Product Image Url'] = base_path_img + sub_item['imageIds'][0]
+                product['Product Image Url'] =  sub_item['imageIds']
+                product['Product Image Url'] = [base_path_img+image for image in product['Product Image Url']]
                 product["Discount percentage"] = int(sub_item['price']['offerApplied']["listingDescription"].split('%')[0])
                 product["Product MRP"] = float(sub_item['price']['mrp']['units'])
                 product['Product In Stock'] = item['inStock']
