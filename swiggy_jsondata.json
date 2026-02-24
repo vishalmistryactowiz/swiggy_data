@@ -10,7 +10,8 @@
         ],
         "Discount percentage": 24,
         "Product MRP": 50.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Juicy, tangy & ideal for all Indian curries"
     },
     {
         "Product Name": "WHITE & GOLD 555 PRIME Playing Cards",
@@ -29,7 +30,8 @@
         ],
         "Discount percentage": 16,
         "Product MRP": 59.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Premium cards for smooth gameplay"
     },
     {
         "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
@@ -43,7 +45,8 @@
         ],
         "Discount percentage": 8,
         "Product MRP": 150.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere"
     },
     {
         "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
@@ -57,7 +60,8 @@
         ],
         "Discount percentage": 11,
         "Product MRP": 100.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere"
     },
     {
         "Product Name": "Nescafe Cafe Style Cold Coffee, Iced Latte",
@@ -71,7 +75,8 @@
         ],
         "Discount percentage": 6,
         "Product MRP": 50.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Enjoy a Cafe Style Cold Coffee On The Go - Anytime, Anywhere"
     },
     {
         "Product Name": "Coriander Leaves without root",
@@ -87,7 +92,8 @@
         ],
         "Discount percentage": 23,
         "Product MRP": 13.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Fresh, aromatic, detox, garnish for soups & curries"
     },
     {
         "Product Name": "Chakaachak High-quality Materials Dustpan (Orange)",
@@ -104,7 +110,8 @@
         ],
         "Discount percentage": 43,
         "Product MRP": 80.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Simple dust collection tool"
     },
     {
         "Product Name": "Schweppes Original Ginger Ale Soda (Can)2pieces",
@@ -118,7 +125,8 @@
         ],
         "Discount percentage": 3,
         "Product MRP": 120.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Classic ginger ale fizzy beverage"
     },
     {
         "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
@@ -136,7 +144,8 @@
         ],
         "Discount percentage": 42,
         "Product MRP": 264.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Smooth vanilla bliss"
     },
     {
         "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
@@ -154,7 +163,8 @@
         ],
         "Discount percentage": 40,
         "Product MRP": 176.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Smooth vanilla center"
     },
     {
         "Product Name": "Sunfeast Dark Fantasy Vanilla Cream",
@@ -172,7 +182,8 @@
         ],
         "Discount percentage": 40,
         "Product MRP": 88.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Chocolate cookie with vanilla filling"
     },
     {
         "Product Name": "NVR Evil Eye Crystal Elasticated Bracelet Unisex Onesize",
@@ -188,7 +199,8 @@
         ],
         "Discount percentage": 8,
         "Product MRP": 999.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Stylish protective charm"
     },
     {
         "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
@@ -202,7 +214,8 @@
         ],
         "Discount percentage": 28,
         "Product MRP": 160.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": ""
     },
     {
         "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
@@ -214,7 +227,8 @@
         ],
         "Discount percentage": 28,
         "Product MRP": 120.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": ""
     },
     {
         "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
@@ -228,7 +242,8 @@
         ],
         "Discount percentage": 26,
         "Product MRP": 80.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Zero sugar, classic Coca-Cola taste"
     },
     {
         "Product Name": "Coca-Cola Zero Soft drink Pet Bottle",
@@ -242,7 +257,8 @@
         ],
         "Discount percentage": 10,
         "Product MRP": 40.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Zero sugar spark"
     },
     {
         "Product Name": "Bingo Original Style Chilli Sprinkled Potato Chips",
@@ -260,7 +276,8 @@
         ],
         "Discount percentage": 26,
         "Product MRP": 100.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Classic Chilli, Crunchy Potato Chips."
     },
     {
         "Product Name": "Bingo Original Style Chilli Sprinkled Potato Chips",
@@ -278,7 +295,8 @@
         ],
         "Discount percentage": 26,
         "Product MRP": 50.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Classic spicy potato chips with chili flavor"
     },
     {
         "Product Name": "Supreme Harvest Suji Rawa (Semolina)",
@@ -292,7 +310,8 @@
         ],
         "Discount percentage": 36,
         "Product MRP": 100.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Fine quality sooji ideal for upma and halwa."
     },
     {
         "Product Name": "Supreme Harvest Suji Rawa (Semolina)",
@@ -306,7 +325,8 @@
         ],
         "Discount percentage": 36,
         "Product MRP": 50.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Fine-quality suji for versatile cooking"
     },
     {
         "Product Name": "Premium Kinnow Orange (Santra)",
@@ -320,7 +340,8 @@
         ],
         "Discount percentage": 21,
         "Product MRP": 122.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Rich sweet-tangy flavour; extra-juicy with smooth bright skin"
     },
     {
         "Product Name": "Premium Kinnow Orange (Santra)",
@@ -333,7 +354,8 @@
         ],
         "Discount percentage": 19,
         "Product MRP": 61.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Rich sweet-tangy flavour; extra-juicy with smooth bright skin"
     },
     {
         "Product Name": "Supreme Harvest Whole Wheat Atta",
@@ -347,7 +369,8 @@
         ],
         "Discount percentage": 22,
         "Product MRP": 250.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Stone-ground whole wheat flour for soft rotis"
     },
     {
         "Product Name": "Paper Boat Chikki Family Pack",
@@ -361,7 +384,8 @@
         ],
         "Discount percentage": 5,
         "Product MRP": 126.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Crunchy Sweet Chikki to Share and Enjoy"
     },
     {
         "Product Name": "Paper Boat Chikki Family Pack",
@@ -375,7 +399,8 @@
         ],
         "Discount percentage": 4,
         "Product MRP": 84.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Traditional jaggery & peanut brittle treat"
     },
     {
         "Product Name": "Paper Boat Chikki Family Pack",
@@ -389,7 +414,8 @@
         ],
         "Discount percentage": 2,
         "Product MRP": 42.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Traditional peanut chikki in a family-size pack"
     },
     {
         "Product Name": "Classmate Octane Ball Pens | Blue Ink | Pack of 5",
@@ -407,7 +433,8 @@
         ],
         "Discount percentage": 8,
         "Product MRP": 50.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Smooth writing experience for everyday use"
     },
     {
         "Product Name": "Hammer Airflow Plus In-Ear Truly Wireless Earbuds With Mic, 23 Hours Playtime, Sound Isolation, IPX4, Bluetooth v5.1 (Green)",
@@ -425,7 +452,8 @@
         ],
         "Discount percentage": 87,
         "Product MRP": 4999.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Long play, clear sound"
     },
     {
         "Product Name": "Hammer 3.25A Fast Charging 1.5 m Type C to Type C Charging Cable, 65 Watts 480 Mbps (Blue)",
@@ -443,7 +471,8 @@
         ],
         "Discount percentage": 87,
         "Product MRP": 999.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Strong cable for rapid charging"
     },
     {
         "Product Name": "Knorr Pizza & Pasta Sauce",
@@ -462,7 +491,8 @@
         ],
         "Discount percentage": 6,
         "Product MRP": 60.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": ""
     },
     {
         "Product Name": "Amul Pure Ghee Carton Pack",
@@ -474,7 +504,8 @@
         ],
         "Discount percentage": 1,
         "Product MRP": 310.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Trusted ghee with rich aroma from Amul"
     },
     {
         "Product Name": "Fortune Sugar",
@@ -490,7 +521,8 @@
         ],
         "Discount percentage": 22,
         "Product MRP": 150.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "Pure Sweetness for Every Occasion"
     },
     {
         "Product Name": "Fortune Sugar",
@@ -506,6 +538,7 @@
         ],
         "Discount percentage": 21,
         "Product MRP": 75.0,
-        "Product In Stock": true
+        "Product In Stock": true,
+        "Product Description": "High-purity granulated sugar"
     }
 ]
