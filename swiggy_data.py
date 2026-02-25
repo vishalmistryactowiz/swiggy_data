@@ -35,6 +35,9 @@ def create_tables(cursor):
         image_url TEXT
     );
     """)
+    conn.commit()
+    cursor.close()
+    conn.close()
 create_tables(cursor)
 conn.commit()
     
